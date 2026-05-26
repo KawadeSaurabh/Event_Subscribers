@@ -1,4 +1,4 @@
-table 50227 "Seed Stock Table 05"
+table 50227 "Seed Stock Table 06"
 {
     DataClassification = ToBeClassified;
 
