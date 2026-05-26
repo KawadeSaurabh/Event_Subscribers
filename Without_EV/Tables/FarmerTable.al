@@ -1,4 +1,4 @@
-table 50228 "Farmer Table 05"
+table 50228 "Farmer Table 06"
 {
     DataClassification = ToBeClassified;
 
